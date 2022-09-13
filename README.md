@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
+## Install the following first
+
+npm install @syncfusion/ej2-angular-richtexteditor --save
+npm install @syncfusion/ej2-angular-richtexteditor@ngcc --save
+
+
+## To mention the ngcc package in the package.json file, add the suffix -ngcc with the package version as below.
+
+    @syncfusion/ej2-angular-richtexteditor:"20.2.38-ngcc"
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
