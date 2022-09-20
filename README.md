@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
+# align content center
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* similarities::: align/place-items: center; */
+  /* similarities::: display: grid/flex; */
+
 ## Install the following first
 
 npm install @syncfusion/ej2-angular-richtexteditor --save
